@@ -1,0 +1,2 @@
+# Amazon2.0
+This project is a modified clone of the popular e-commerce platform, Amazon.com. This project serves as a comprehensive exploration of web development and design skills, showcasing a feature-rich e-commerce platform. 
